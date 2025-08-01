@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build immortalwrt
+name: Build-MI-R3G-237immortalwrt-turboacc-mtk
 
 on:
   repository_dispatch:
